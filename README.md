@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td align="center"><img src="https://avatars.githubusercontent.com/u/31761331?v=4" width="200" /></td>
+    <td align="center"><img src="https://github.com/reichherzerp/reichherzerp/blob/main/pr_oxford.png" width="200" /></td>
     <td align="center"><img src="https://github.com/reichherzerp/reichherzerp/blob/main/matxmate_img.png" width="200" /></td>
     <td align="center"><img src="https://github.com/reichherzerp/reichherzerp/blob/main/astro-COLIBRI_img.png" width="200" /></td>
   </tr>
